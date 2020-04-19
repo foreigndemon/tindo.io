@@ -34,7 +34,7 @@ body{
 
 .title-image{
     width:60%;
-    transform: rotate(16deg);
+    /* transform: rotate(16deg); */
 }
 
 /* TITLE-TEXT */
