@@ -109,7 +109,10 @@ p{
 em{
     color: #fff;
 }
-
+/* CAROUSEL */
+.carousel-item{
+    background-color: #fe346e;
+}
 /* ----------------------------------------------------------PRESS-------------------------------------------------------- */
 #press{
     background-color: #fe346e;
