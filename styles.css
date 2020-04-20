@@ -164,12 +164,25 @@ em{
     background-color: #fe346e;
     color: #fff;
     text-align: center;
-    padding: 7% 15%;   
+    padding: 5% 15%;   
 }
 .cta-heading{
     font-family: 'Montserrat-Black', sans-serif;
     font-weight: 900;
 }
+
+/*--------------------------------------------------------------- FOOTER ----------------------------------------------------------------------*/
+
+#footer{
+    text-align: center;
+    background-color: #fe346e;
+}   
+.foot{
+    font-family: 'Roboto', sans-serif;
+    margin-bottom: 0;
+    color:#fff;
+}
+
 
 
 /************************************************************ MEDIA-QUERIES************************************************** */
