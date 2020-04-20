@@ -125,3 +125,26 @@ em{
     width: 13%;
     margin: 20px 20px 50px;
 }
+
+/* -----------------------------------------------------------PRICING------------------------------------------------------- */
+
+#pricing{
+    padding: 100px;
+    text-align: center;
+}
+.price{
+    margin-bottom: 40px;
+}
+.price-head{
+    font-family: 'Montserrat-Black', sans-serif;
+    font-size: 2.5rem;
+    font-weight: 900;
+}
+.price-head-two{
+    font-family: 'Montserrat-Black', sans-serif;
+    font-size: 1.8rem;
+    font-weight: 900;
+}
+.pricing-col{
+    padding: 2% 3%;
+}
