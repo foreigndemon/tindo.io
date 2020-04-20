@@ -112,8 +112,9 @@ p{
 
 .testimonial-img{
     border-radius:100%;
-    width:9rem;
+    width:10rem;
     margin-top: 4rem;
+    margin-bottom: 40px;
 }
 em{
     color: #fff;
@@ -198,7 +199,7 @@ em{
 
 .up-arrow{
     margin-top: 50px;
-    align-items: flex-end;
+    
 }
 
 
