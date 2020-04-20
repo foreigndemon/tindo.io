@@ -18,10 +18,11 @@ body{
     font-weight: bold;
     
 }
-.nav-item{
-    font-family:'Montserrat-Thin',Arial, Helvetica, sans-serif;
-    font-size: 1.2rem;
-    padding: 0 18px;
+.text{
+    font-family: 'Quicksand', sans-serif;
+    font-size: 1.1rem;
+    margin-left:2rem;
+    
 }
 
 /* -------------------------------------------------BUTTONS-DOWNLOAD------------------------------------------------- */
@@ -59,15 +60,15 @@ h1{
 }
 h3{
     font-family: 'Montserrat-Black', sans-serif;
-    font-size: 1.5rem;
+    font-size: 1.7rem;
     font-weight: 900;
 }
 .feature-row{
     margin-bottom:100px;
 }
 p{  
-    color: #8f8f8f
-    /* font-size: 5rem; */
+    color: #8f8f8f;
+    font-size: 1.1rem;
     font-family: 'Montserrat', sans-serif;
 }
   
