@@ -176,12 +176,24 @@ em{
 
 #footer{
     text-align: center;
-    background-color: #fe346e;
+    margin-top:100px;
+  
 }   
 .foot{
     font-family: 'Roboto', sans-serif;
-    margin-bottom: 0;
-    color:#fff;
+    text-align: center;
+    margin-top: 50px;
+    color:black;
+    
+}
+
+.link-foot{
+    color:black;
+    margin: 20px 10px;
+    padding: 5px 30px;
+}
+.link-foot:hover{
+    color:#8f8f8f;
 }
 
 
